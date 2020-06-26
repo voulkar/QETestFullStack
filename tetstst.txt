@@ -2,4 +2,9 @@ Hello World!!
 
 This file changed at remote master by other user to check pull
 
+
 testing conflict
+
+
+Change at local master to test conflict while push 
+
